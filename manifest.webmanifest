@@ -1,0 +1,24 @@
+{
+  "name": "Campus Godin — Godin Liberal Arts 2026–2027",
+  "short_name": "Campus Godin",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#0c1830",
+  "description": "Portail personnel de Godin Liberal Arts 2026–2027",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
